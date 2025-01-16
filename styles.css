@@ -11,12 +11,13 @@ body{
 .card{
     width: 90%;
     max-width: 470px;
-    background: linear-gradient(135deg, #00feba, #5b548a);
+    background: url(ocean.jpg);
     color: #fff;
     margin: 20px;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
+    background-position: center;
 
     
 
